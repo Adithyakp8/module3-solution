@@ -1,0 +1,39 @@
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #000;
+  }
+
+#header-nav{
+    background-color: gray;
+    border: 0;
+    padding: 10px;
+}
+#header-nav .container{
+    margin: 0;
+}
+.navbar-brand h1 { 
+    font-family: sans-serif;
+    color: #000;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  #nav-list a {
+    color: #000;
+    text-align: center;
+  }
+  #nav-list a:hover {
+    background: #E7E7E7;
+  }
+  #nav-list a span {
+    font-size: 1.8em;
+  }
+  hr{
+    padding: 0;
+    margin: 0;
+    height: 2px;
+    background-color: #000;
+}
+
